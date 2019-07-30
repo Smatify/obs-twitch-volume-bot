@@ -1,0 +1,18 @@
+{
+  "name": "obs-volume-change-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "form-data": "^2.5.0",
+    "irc-message": "^3.0.2",
+    "obs-websocket-js": "^3.1.0",
+    "ws": "^7.1.1"
+  }
+}
